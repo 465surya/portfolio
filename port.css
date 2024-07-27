@@ -261,7 +261,7 @@ header {
 }
 .home {
     position: relative;
-    margin-top: 20%;
+    margin-top: -15%;
     margin-left: 1%;
     width: 100%;
     height: 100vh;
@@ -321,13 +321,13 @@ header {
 .social-icons a {
     display: inline-block;
     width: 30px;
-    height: 30px;
+    height: 130px;
     border-radius: 50%;
     margin-right: 15px;
     font-size: small;
-    line-height: 60px;
+    line-height: 10px;
     transition: .3s;
-    padding: -10%;
+    padding: 0%;
     
     
     
@@ -356,23 +356,23 @@ header {
   90% {
     transform: scale(1.5);
     }
-   100% {
+   70% {
      
    }
   90% {
-    transform: scale(1.3); 
+    transform: scale(1.2); 
   }
  }
 .image{
-    margin-right: 1000%;
-    margin-top: -138%;
+    margin-right: 100%;
+    margin-top: -175%;
     margin-left: 28%;
     text-align: center;
 }
 .footer{width: 100%;
     
 
- padding: 2.9%;
+ padding: 5%;
  
  display: flex;
  justify-content: space-around;
@@ -390,7 +390,7 @@ header {
     font-weight: 400;
     background-color: #922818;
     margin-left: 53%;
-    margin-top: -1.3%; 
+    margin-top: -2.9%; 
     position: fixed;
    
 
@@ -403,7 +403,7 @@ header {
     position: fixed;
     background-color: #922818;
      margin-right: 84%; 
-     margin-top: -1.3%;
+     margin-top: -2.9%;
      
 }
 
